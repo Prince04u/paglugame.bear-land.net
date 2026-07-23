@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <!-- Main Landing Page -->
+    <url>
+        <loc>https://paglugame.bear-land.net/</loc>
+        <lastmod>2026-07-23</lastmod>
+        <changefreq>daily</changefreq>
+        <priority>1.00</priority>
+    </url>
+    
+    <!-- About Us Page -->
+    <url>
+        <loc>https://paglugame.bear-land.net/about-us.html</loc>
+        <lastmod>2026-07-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Contact Us Page -->
+    <url>
+        <loc>https://paglugame.bear-land.net/contact-us.html</loc>
+        <lastmod>2026-07-23</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.80</priority>
+    </url>
+    
+    <!-- Disclaimer Page -->
+    <url>
+        <loc>https://paglugame.bear-land.net/disclaimer.html</loc>
+        <lastmod>2026-07-23</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+    
+    <!-- Privacy Policy Page -->
+    <url>
+        <loc>https://paglugame.bear-land.net/privacy-policy.html</loc>
+        <lastmod>2026-07-23</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+    
+    <!-- Terms and Conditions Page -->
+    <url>
+        <loc>https://paglugame.bear-land.net/terms-and-conditions.html</loc>
+        <lastmod>2026-07-23</lastmod>
+        <changefreq>yearly</changefreq>
+        <priority>0.50</priority>
+    </url>
+</urlset>
