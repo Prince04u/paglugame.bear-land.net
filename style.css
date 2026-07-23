@@ -336,7 +336,7 @@ em, i {
 }
 
 .logo-img {
-    height: 48px;
+    height: 56px;
     width: auto;
     object-fit: contain;
     transition: transform var(--transition-base);
