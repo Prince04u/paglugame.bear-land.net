@@ -336,12 +336,14 @@ em, i {
 }
 
 .logo-img {
-    width: 32px;
-    height: 32px;
-    border-radius: var(--radius-sm);
-    object-fit: cover;
-    border: 1px solid rgba(255, 255, 255, 0.1);
-    box-shadow: 0 0 10px rgba(0, 212, 255, 0.2);
+    height: 48px;
+    width: auto;
+    object-fit: contain;
+    transition: transform var(--transition-base);
+}
+
+.logo-img:hover {
+    transform: scale(1.05);
 }
 
 .logo-icon {
